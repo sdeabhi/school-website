@@ -1,1 +1,1 @@
-Single Page School Website
+School Website
